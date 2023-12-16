@@ -1,0 +1,1 @@
+tabellen är gammal, Se results.txt istället för att få dem uppdaterade resulaten
